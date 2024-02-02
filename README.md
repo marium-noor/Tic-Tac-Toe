@@ -8,7 +8,6 @@ Welcome to the Tic Tac Toe game! This web-based game is built using HTML, CSS, a
 - [Getting Started](#getting-started)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## How to Play
 
