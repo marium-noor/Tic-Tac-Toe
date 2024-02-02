@@ -9,6 +9,9 @@ Welcome to the Tic Tac Toe game! This web-based game is built using HTML, CSS, a
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
 
+## How it looks
+<img width="777" alt="Screenshot 2024-02-02 221122" src="https://github.com/marium-noor/Tic-Tac-Toe/assets/145590434/717eb9a1-3dcb-492f-ab64-f873a4631448">
+
 ## How to Play
 
 1. **Objective**: The game is played on a 3x3 grid. The objective is to get three of your symbols (either "X" or "O") in a row, either horizontally, vertically, or diagonally.
